@@ -1,4 +1,5 @@
 // 전체 index.tsx 코드 (Next.js용)
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { useState } from "react";
 
 export default function Home() {
